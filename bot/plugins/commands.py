@@ -48,7 +48,7 @@ async def start(bot, update):
 
     buttons = [[
         InlineKeyboardButton('Developers', url='https://t.me/movies_hut_chat'),
-        InlineKeyboardButton('Source Code 🧾', url ='https://youtube.com/channel/UCHQp1b-syViwgyfw_WVn5Hw')
+        InlineKeyboardButton('Source Code 🧾', url ='https://youtube.com/channel/UClUFf0R7oicCRmZSmIY8zSg')
     ],[
         InlineKeyboardButton('Support 🛠', url='https://t.me/movies_hut_chat')
     ],[
