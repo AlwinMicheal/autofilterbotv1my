@@ -50,7 +50,7 @@ async def start(bot, update):
         InlineKeyboardButton('Developers', url='https://t.me/movies_hut_chat'),
         InlineKeyboardButton('Source Code 🧾', url ='https://youtube.com/channel/UClUFf0R7oicCRmZSmIY8zSg')
     ],[
-        InlineKeyboardButton('Support 🛠', url='https://t.me/movies_hut_chat')
+        InlineKeyboardButton('Support 🛠', url='https://t.me/new_movies_HD_movies')
     ],[
         InlineKeyboardButton('Help ⚙', callback_data="help")
     ]]
